@@ -51,4 +51,5 @@ async def on_message(message):
 client.run(Discord_TOKEN)
 
 
-print("Luffy")
+print("Monkey D. Luffy")
+print("You did not pull")
