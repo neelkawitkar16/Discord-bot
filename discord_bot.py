@@ -50,4 +50,4 @@ async def on_message(message):
 
 client.run(Discord_TOKEN)
 
-print("Virat Kolhi")
+print("Rohit Sharma")
